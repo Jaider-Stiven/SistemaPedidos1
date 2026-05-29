@@ -1,0 +1,4 @@
+com\mycompany\sistemapedidos1\JakartaRestConfiguration.class
+servlets\RegistroServlet.class
+servlets\PedidoServlet.class
+com\mycompany\sistemapedidos1\resources\JakartaEE10Resource.class
